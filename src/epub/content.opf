@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/jane-c-loudon/the-mummy</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
@@ -47,11 +47,11 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Science Fiction</meta>
-		<dc:description id="description">
+		<meta property="schema:abstract">An ancient Egyptian mummy is resurrected in the twenty-second century.</meta>
+		<dc:description>
 			&lt;p&gt;Under a new era of government headed by strictly female sovereigns, England finds itself in an age of relative tranquility after three centuries of political volatility. In the new system, a hybrid of democracy and monarchy, political posturing is underfoot amongst those eligibile for succession for the throne. Edric Montagu, the younger son of a baronet, living in the shadow of his celebrated elder brother, finds himself the subject of a scheme to arrange his marriage to Rosabella, niece of the Duke of Cornwall—a scheme in which he wants no part. Disillusioned and restless, Edric finds himself enticed by the stranger-than-fiction theories of Galvanism proposed by Dr. Entwerfen, a scientist who believes that using the power of electricity, it may be possible to reanimate a corpse provided it has been sufficiently well-preserved. Defying his father and the plan to arrange his marriage, Edric sets off for Egypt with his tutor to partake in this bold experiment and revive the mummy of King Cheops, utterly ignorant of exactly what he is about to awaken or the profound fate that it will soon unfurl upon the empire.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Mummy! A Tale of the Twenty-Second Century&lt;/i&gt; was first published in 1827 with a second edition published in 1828 that made substantial changes to the text. The revised 1828 edition is the basis for this Standard Ebook. &lt;a href="https://standardebooks.org/ebooks/jane-c-loudon"&gt;Jane C. Loudon&lt;/a&gt;, orphaned at age 17, wrote the novel as a means to provide herself with an income after the affairs of her late father’s estate were settled. The novel was published anonymously at the time, only being attributed to Loudon publicly many years later. Understood to be the first published work of science fiction to feature a resurrected mummy, the book was written in an era defined by Egyptomania as a result of the Napoleonic invasion of Egypt a few years prior. The future society that Loudon imagined juxtaposes traditional 19th century British society with numerous technological advances, some conceptually familiar to a 21st century reader and others both ambitious and fantastical. Air travel between England and Egypt would eventually prove itself an everyday occurrence in later centuries though the specific vehicles and details would ultimately diverge from Loudon’s predicted balloon-based transit. A 21st century reader will even find proposed advancements that are remarkably future-looking even by modern standards, such as criminal trials being argued by automaton lawyers that can speak every language, demonstrating a future that still feels plausible two centuries later.&lt;/p&gt;
 		</dc:description>
-		<meta property="schema:abstract">An ancient Egyptian mummy is resurrected in the twenty-second century.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56426</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102985942</dc:source>
